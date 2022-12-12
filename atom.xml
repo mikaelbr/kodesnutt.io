@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kodesnutt</title>
+  
+  <subtitle>Samling videosnutter for å lære koding</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://kodesnutt.io/"/>
+  <updated>2021-03-17T14:16:01.453Z</updated>
+  <id>https://kodesnutt.io/</id>
+  
+  <author>
+    <name>Mikael Brevik</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Async JavaScript</title>
+    <link href="https://kodesnutt.io/2017/11/29/Async-JavaScript/"/>
+    <id>https://kodesnutt.io/2017/11/29/Async-JavaScript/</id>
+    <published>2017-11-29T08:24:26.000Z</published>
+    <updated>2021-03-17T14:16:01.453Z</updated>
+    
+    <content type="html"><![CDATA[<p>En pågående serie hvor vi ser på JavaScripts asynkrone natur og de forskjellige asynkrone byggeklossene. Alt fra grunnleggende callbacks, til thunks og promises og helt opp til async/await. Ny episode kommer hver fredag klokken 07:00.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;En pågående serie hvor vi ser på JavaScripts asynkrone natur og de forskjellige asynkrone byggeklossene. Alt fra grunnleggende callbacks,
+      
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://kodesnutt.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Lær funksjonell tankegang med OCaml</title>
+    <link href="https://kodesnutt.io/2017/11/06/Laer-OCaml/"/>
+    <id>https://kodesnutt.io/2017/11/06/Laer-OCaml/</id>
+    <published>2017-11-06T20:26:30.000Z</published>
+    <updated>2021-03-17T14:15:36.696Z</updated>
+    
+    <content type="html"><![CDATA[<p>En serie med 18 korte videoer som går igjennom sentrale konsepter i funksjonell programmering i ML-språk. Alt fra typer, currying, pattern matching og rekursjon.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;En serie med 18 korte videoer som går igjennom sentrale konsepter i funksjonell programmering i ML-språk. Alt fra typer, currying, patter
+      
+    
+    </summary>
+    
+    
+      <category term="OCaml" scheme="https://kodesnutt.io/tags/OCaml/"/>
+    
+  </entry>
+  
+</feed>
